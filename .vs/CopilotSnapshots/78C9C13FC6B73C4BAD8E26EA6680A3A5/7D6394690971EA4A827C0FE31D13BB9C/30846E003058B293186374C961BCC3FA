@@ -1,0 +1,17 @@
+﻿using EFCore.TestAggregates.Demo.Entities;
+
+namespace EFCore.TestAggregates.Demo.Tests.AggregateBuilders;
+
+internal static class UserBuilder
+{
+    public static UserEntity Create(string username, UserType type = UserType.User, string? displayName = null, string? email = null)
+    {
+        return new UserEntity
+        {
+            Username = username,
+            UserType = type,
+            DisplayName = displayName,
+            Email = email
+        };
+    }
+}

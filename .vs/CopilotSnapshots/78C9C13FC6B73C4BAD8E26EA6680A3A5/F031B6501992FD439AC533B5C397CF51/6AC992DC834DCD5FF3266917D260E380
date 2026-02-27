@@ -1,0 +1,29 @@
+﻿using System.Reflection;
+using EFCore.TestAggregates.Demo.Entities;
+
+namespace EFCore.TestAggregates.Demo.Tests.AggregateBuilders;
+
+internal static class UserBuilder
+{
+    // Create a new user. Optionally provide an explicit id which will be set
+    // via reflection (useful for tests that rely on foreign-key ids).
+    public static UserEntity Create(string username, UserType type = UserType.User, string? displayName = null, string? email = null, int id = 0)
+    {
+        var user = new UserEntity
+        {
+            Username = username,
+            UserType = type,
+            DisplayName = displayName,
+            Email = email
+        };
+
+        if (id != 0)
+        {
+            // set the private setter Id via reflection
+            var prop = typeof(UserEntity).GetProperty("Id", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+            prop?.SetValue(user, id);
+        }
+
+        return user;
+    }
+}

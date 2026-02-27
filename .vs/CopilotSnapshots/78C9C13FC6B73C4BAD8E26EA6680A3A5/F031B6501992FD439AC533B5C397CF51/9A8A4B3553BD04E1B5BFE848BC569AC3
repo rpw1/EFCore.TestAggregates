@@ -1,0 +1,29 @@
+﻿using EFCore.TestAggregates.Demo.Entities;
+using System;
+using System.Reflection;
+
+namespace EFCore.TestAggregates.Demo.Tests.AggregateBuilders;
+
+internal static class TrackBuilder
+{
+    // Create a new track. Optionally provide an explicit id which will be set
+    // via reflection (useful for tests that rely on foreign-key ids).
+    public static TrackEntity Create(AlbumEntity album, string name, TimeSpan duration, int id = 0)
+    {
+        var track = new TrackEntity
+        {
+            Album = album,
+            AlbumId = album.Id,
+            Name = name,
+            Duration = duration
+        };
+
+        if (id != 0)
+        {
+            var prop = typeof(TrackEntity).GetProperty("Id", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
+            prop?.SetValue(track, id);
+        }
+
+        return track;
+    }
+}

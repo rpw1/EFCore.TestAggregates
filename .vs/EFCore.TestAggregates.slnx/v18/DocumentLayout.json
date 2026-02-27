@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\EFCore.TestAggregates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|d:\\repos\\efcore.testaggregates\\demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\albumbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|solutionrelative:demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\albumbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|d:\\repos\\efcore.testaggregates\\demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|solutionrelative:demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\userbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|d:\\repos\\efcore.testaggregates\\demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\trackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|solutionrelative:demo\\efcore.testaggregates.demo\\tests\\aggregatebuilders\\trackbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|d:\\repos\\efcore.testaggregates\\demo\\efcore.testaggregates.demo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|solutionrelative:demo\\efcore.testaggregates.demo\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|d:\\repos\\efcore.testaggregates\\demo\\efcore.testaggregates.demo\\idemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19ED9711-76A9-458D-B02E-DB3915F02EC6}|demo\\EFCore.TestAggregates.Demo\\EFCore.TestAggregates.Demo.csproj|solutionrelative:demo\\efcore.testaggregates.demo\\idemodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|d:\\repos\\efcore.testaggregates\\src\\entitymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|solutionrelative:src\\entitymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|d:\\repos\\efcore.testaggregates\\src\\entityaggregatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|solutionrelative:src\\entityaggregatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|d:\\repos\\efcore.testaggregates\\src\\internal\\dbsetaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|solutionrelative:src\\internal\\dbsetaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|d:\\repos\\efcore.testaggregates\\src\\internal\\trackedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|solutionrelative:src\\internal\\trackedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|d:\\repos\\efcore.testaggregates\\src\\internal\\propertyaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0491E52A-0BB4-4396-DA8E-443DA09836DA}|src\\EFCore.TestAggregates.csproj|solutionrelative:src\\internal\\propertyaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDemoDbContext.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\IDemoDbContext.cs",
+              "RelativeDocumentMoniker": "demo\\EFCore.TestAggregates.Demo\\IDemoDbContext.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\IDemoDbContext.cs",
+              "RelativeToolTip": "demo\\EFCore.TestAggregates.Demo\\IDemoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T01:03:05.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlbumBuilder.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\AlbumBuilder.cs",
+              "RelativeDocumentMoniker": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\AlbumBuilder.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\AlbumBuilder.cs",
+              "RelativeToolTip": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\AlbumBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:53:49.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserBuilder.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\UserBuilder.cs",
+              "RelativeDocumentMoniker": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\UserBuilder.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\UserBuilder.cs",
+              "RelativeToolTip": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\UserBuilder.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:53:41.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackBuilder.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\TrackBuilder.cs",
+              "RelativeDocumentMoniker": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\TrackBuilder.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\TrackBuilder.cs",
+              "RelativeToolTip": "demo\\EFCore.TestAggregates.Demo\\Tests\\AggregateBuilders\\TrackBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:53:35.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrackedEntity.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\TrackedEntity.cs",
+              "RelativeDocumentMoniker": "src\\Internal\\TrackedEntity.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\TrackedEntity.cs",
+              "RelativeToolTip": "src\\Internal\\TrackedEntity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:32:32.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyAccessor.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\PropertyAccessor.cs",
+              "RelativeDocumentMoniker": "src\\Internal\\PropertyAccessor.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\PropertyAccessor.cs",
+              "RelativeToolTip": "src\\Internal\\PropertyAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:32:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbSetAccessor.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\DbSetAccessor.cs",
+              "RelativeDocumentMoniker": "src\\Internal\\DbSetAccessor.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\src\\Internal\\DbSetAccessor.cs",
+              "RelativeToolTip": "src\\Internal\\DbSetAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T00:32:18.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityAggregateBuilder.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\src\\EntityAggregateBuilder.cs",
+              "RelativeDocumentMoniker": "src\\EntityAggregateBuilder.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\src\\EntityAggregateBuilder.cs",
+              "RelativeToolTip": "src\\EntityAggregateBuilder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:11:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityMap.cs",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\src\\EntityMap.cs",
+              "RelativeDocumentMoniker": "src\\EntityMap.cs",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\src\\EntityMap.cs",
+              "RelativeToolTip": "src\\EntityMap.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T10:10:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\README.md",
+              "RelativeDocumentMoniker": "demo\\EFCore.TestAggregates.Demo\\README.md",
+              "ToolTip": "D:\\Repos\\EFCore.TestAggregates\\demo\\EFCore.TestAggregates.Demo\\README.md",
+              "RelativeToolTip": "demo\\EFCore.TestAggregates.Demo\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-14T21:57:43.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace EFCore.TestAggregates.Demo.Entities;
+
+internal class AlbumEntity
+{
+}
