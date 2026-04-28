@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="demo/EFCore.TestAggregates.Demo/EFCore.TestAggregates.Demo.csproj" Id="19ed9711-76a9-458d-b02e-db3915f02ec6" />
+  <Project Path="src/EFCore.TestAggregates.csproj" />
+</Solution>
